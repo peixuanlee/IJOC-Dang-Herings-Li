@@ -1,0 +1,96 @@
+Path 4.7.03: Matlab Link
+24 row/cols, 158 non-zeros, 27.43% dense.
+
+Could not open options file: path.opt
+Using defaults.
+Path 4.7.03 (Wed Nov 21 16:35:11 2012)
+Written by Todd Munson, Steven Dirkse, and Michael Ferris
+
+INITIAL POINT STATISTICS
+Maximum of X. . . . . . . . . .  9.8942e-001 var: (x[   21])
+Maximum of F. . . . . . . . . .  6.3204e+000 eqn: (f[    6])
+Maximum of Grad F . . . . . . .  1.0896e+001 eqn: (f[   13])
+                                            var: (x[   18])
+
+INITIAL JACOBIAN NORM STATISTICS
+Maximum Row Norm. . . . . . . .  4.0456e+001 eqn: (f[   13])
+Minimum Row Norm. . . . . . . .  5.0000e+000 eqn: (f[   21])
+Maximum Column Norm . . . . . .  4.0009e+001 var: (x[   16])
+Minimum Column Norm . . . . . .  4.2298e+000 var: (x[   21])
+
+Crash Log
+major  func  diff  size  residual    step       prox   (label)
+    0     0             1.9800e+001             0.0e+000 (f[   20])
+pn_search terminated: no progress.
+
+Major Iteration Log
+major minor  func  grad  residual    step  type prox    inorm  (label)
+    0     0    13     1 1.9800e+001           I 0.0e+000 1.2e+001 (f[   20])
+    1    81    14     2 2.0000e+000  1.0e+000 CO 0.0e+000 1.0e+000 (f[   21])
+    2    65    15     3 2.0000e+000  1.0e+000 CO 0.0e+000 1.0e+000 (f[   24])
+    3    51    16     4 2.0000e+000  1.0e+000 CO 0.0e+000 1.0e+000 (f[   21])
+    4    43    17     5 2.0000e+000  1.0e+000 CO 0.0e+000 1.0e+000 (f[   21])
+    5    49    18     6 2.0000e+000  1.0e+000 CO 0.0e+000 1.0e+000 (f[   21])
+    6    56    29     7 1.9904e+000  1.9e-003 CG 0.0e+000 9.9e-001 (f[   23])
+    7   130    30     8 1.9426e+000  1.0e+000 CO 0.0e+000 9.7e-001 (f[   23])
+    8    37    31     9 1.3950e+001  1.0e+000 SO 0.0e+000 7.7e+000 (f[   16])
+    9    45    32    10 1.5277e+001  1.0e+000 CO 0.0e+000 1.1e+001 (f[    8])
+   10    47    33    11 1.5426e+001  1.0e+000 RO 0.0e+000 1.1e+001 (f[    8])
+   11    94    36    12 1.4588e+001  6.4e-001 CB 0.0e+000 1.3e+001 (f[    8])
+   12    33    37    13 1.4627e+001  1.0e+000 CO 0.0e+000 1.3e+001 (f[    8])
+   13    29    38    14 1.4593e+001  1.0e+000 CO 0.0e+000 1.3e+001 (f[    8])
+   14    50    49    15 1.9302e+000  1.9e-003 CG 0.0e+000 9.7e-001 (f[   24])
+   15    65    50    16 1.9136e+000  1.0e+000 CO 0.0e+000 9.6e-001 (f[   24])
+   16    35    51    17 1.9128e+000  1.0e+000 CO 0.0e+000 9.6e-001 (f[   24])
+   17    35    52    18 1.9128e+000  1.0e+000 CO 0.0e+000 9.6e-001 (f[   24])
+   18    35    53    19 1.9129e+000  1.0e+000 CO 0.0e+000 9.6e-001 (f[   24])
+   19    97    54    20 2.0000e+000  1.0e+000 CL 0.0e+000 1.0e+000 (f[   22])
+   20    86    65    21 1.9015e+000  1.9e-003 CG 0.0e+000 9.5e-001 (f[   24])
+   21    53    66    22 1.8860e+000  1.0e+000 CO 0.0e+000 9.5e-001 (f[   24])
+   22    25    67    23 1.3942e+001  1.0e+000 SD 0.0e+000 7.8e+000 (f[   16])
+   23    27    68    24 1.5165e+001  1.0e+000 CD 0.0e+000 1.1e+001 (f[    8])
+   24    49    69    25 1.5274e+001  1.0e+000 RD 0.0e+000 1.0e+001 (f[    7])
+   25   166    70    26 1.8312e+001  1.0e+000 CD 0.0e+000 1.2e+001 (f[    8])
+   26    29    71    27 1.8312e+001  1.0e+000 CD 0.0e+000 1.2e+001 (f[    8])
+   27    19    72    28 1.8312e+001  1.0e+000 CD 0.0e+000 1.2e+001 (f[    8])
+   28    77    83    29 1.8794e+000  1.9e-003 CG 0.0e+000 9.4e-001 (f[   24])
+   29    53    84    30 1.8647e+000  1.0e+000 CO 0.0e+000 9.4e-001 (f[   24])
+   30    29    89    31 1.6730e+000  3.3e-001 CB 0.0e+000 7.5e-001 (f[    8])
+   31    38    90    32 9.1815e+000  1.0e+000 RD 0.0e+000 8.1e+000 (f[   13])
+   32    27    91    33 9.4296e+000  1.0e+000 CD 0.0e+000 8.1e+000 (f[   13])
+   33    59    94    34 1.9056e+000  6.4e-001 CW 0.0e+000 1.3e+000 (f[   13])
+   34    46   105    35 1.3450e+000  1.9e-003 RG 0.0e+000 6.5e-001 (f[   24])
+   35    55   106    36 1.2543e+000  1.0e+000 CO 0.0e+000 6.1e-001 (f[   24])
+   36    19   110    37 1.2976e+000  5.1e-001 SB 0.0e+000 6.5e-001 (f[   20])
+   37   137   111    38 1.3136e+000  1.0e+000 CO 0.0e+000 7.2e-001 (f[   16])
+   38    11   112    39 1.4130e+000  1.0e+000 SO 0.0e+000 9.8e-001 (f[   19])
+   39     1   113    40 1.4278e-002  1.0e+000 SO 0.0e+000 8.3e-003 (f[    7])
+   40     1   114    41 3.0416e-006  1.0e+000 SO 0.0e+000 1.9e-006 (f[    8])
+   41     1   115    42 1.1233e-013  1.0e+000 SO 0.0e+000 7.7e-014 (f[    8])
+
+FINAL STATISTICS
+Inf-Norm of Complementarity . .  7.7272e-014 eqn: (f[    8])
+Inf-Norm of Normal Map. . . . .  7.7272e-014 eqn: (f[    8])
+Inf-Norm of Minimum Map . . . .  7.7272e-014 eqn: (f[    8])
+Inf-Norm of Fischer Function. .  7.7272e-014 eqn: (f[    8])
+Inf-Norm of Grad Fischer Fcn. .  1.5112e-012 eqn: (f[    4])
+Two-Norm of Grad Fischer Fcn. .  2.2695e-012
+
+FINAL POINT STATISTICS
+Maximum of X. . . . . . . . . .  1.0231e+001 var: (x[   24])
+Maximum of F. . . . . . . . . .  1.3374e+001 eqn: (f[    4])
+Maximum of Grad F . . . . . . .  1.7770e+001 eqn: (f[   13])
+                                            var: (x[   18])
+
+ ** EXIT - solution found.
+
+Major Iterations. . . . 41
+Minor Iterations. . . . 2173
+Restarts. . . . . . . . 0
+Crash Iterations. . . . 0
+Gradient Steps. . . . . 5
+Function Evaluations. . 115
+Gradient Evaluations. . 42
+Basis Time. . . . . . . 0.000000
+Total Time. . . . . . . 0.319000
+Residual. . . . . . . . 1.123336e-013
