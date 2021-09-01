@@ -15,7 +15,7 @@ fprintf('Probability density of zeros in payoff matrix = %6.2f\n\n', pd0);
 
 for k = 1:nt0
     fprintf('k = %4d\n', k);
-    se245;
+    se225;
     nc = nn + nc;
     timep = timep + time0;
     time0 = timep;

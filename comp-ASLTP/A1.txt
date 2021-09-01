@@ -1,0 +1,2796 @@
+Probability density of zeros in payoff matrix =   0.25
+
+k =    1
+___________________________________________________________________________
+
+Number of Iterations                 =        263
+Computational Time                   =            8.48
+
+Final value of t                     = +2.34429088e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+
+Number of Iterations                 =        867
+Computational Time                   =           28.40
+Number of Iterations (t < 1)         =        613
+Computational Time (t < 1)           =           19.66
+
+Final value of t                     = +4.29976644e-08
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    2
+___________________________________________________________________________
+
+Number of Iterations                 =       1021
+Computational Time                   =           27.22
+
+Final value of t                     = +9.36637641e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+
+Number of Iterations                 =       1197
+Computational Time                   =           37.45
+Number of Iterations (t < 1)         =       1070
+Computational Time (t < 1)           =           32.28
+
+Final value of t                     = +5.17378441e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    3
+___________________________________________________________________________
+
+Number of Iterations                 =        434
+Computational Time                   =           11.44
+
+Final value of t                     = +2.66116608e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+
+Number of Iterations                 =       1482
+Computational Time                   =           69.14
+Number of Iterations (t < 1)         =       1131
+Computational Time (t < 1)           =           57.03
+
+Final value of t                     = +8.31877915e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    4
+___________________________________________________________________________
+
+Number of Iterations                 =        194
+Computational Time                   =            8.70
+
+Final value of t                     = +4.03872812e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+
+Number of Iterations                 =       1500
+Computational Time                   =           77.09
+Number of Iterations (t < 1)         =       1169
+Computational Time (t < 1)           =           59.51
+
+Final value of t                     = +5.57470610e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    5
+___________________________________________________________________________
+
+Number of Iterations                 =        504
+Computational Time                   =           23.79
+
+Final value of t                     = +7.02188711e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+
+Number of Iterations                 =       3117
+Computational Time                   =          157.10
+Number of Iterations (t < 1)         =       2926
+Computational Time (t < 1)           =          146.13
+
+Final value of t                     = +3.59481517e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    6
+___________________________________________________________________________
+
+Number of Iterations                 =        494
+Computational Time                   =           21.52
+
+Final value of t                     = +7.02064314e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+
+Number of Iterations                 =       1191
+Computational Time                   =           61.36
+Number of Iterations (t < 1)         =        993
+Computational Time (t < 1)           =           50.13
+
+Final value of t                     = +2.14772636e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    7
+___________________________________________________________________________
+
+Number of Iterations                 =        110
+Computational Time                   =            5.06
+
+Final value of t                     = +1.28454991e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+
+Number of Iterations                 =       1422
+Computational Time                   =           75.50
+Number of Iterations (t < 1)         =       1262
+Computational Time (t < 1)           =           66.16
+
+Final value of t                     = +4.77756555e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    8
+___________________________________________________________________________
+
+Number of Iterations                 =        350
+Computational Time                   =           18.76
+
+Final value of t                     = +3.43776079e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+
+Number of Iterations                 =       1189
+Computational Time                   =           61.72
+Number of Iterations (t < 1)         =        932
+Computational Time (t < 1)           =           47.03
+
+Final value of t                     = +1.25882582e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    9
+___________________________________________________________________________
+
+Number of Iterations                 =        246
+Computational Time                   =           10.48
+
+Final value of t                     = +3.69543312e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+
+Number of Iterations                 =        654
+Computational Time                   =           33.70
+Number of Iterations (t < 1)         =        418
+Computational Time (t < 1)           =           20.86
+
+Final value of t                     = +3.51976194e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =   10
+___________________________________________________________________________
+
+Number of Iterations                 =       1454
+Computational Time                   =           60.68
+
+Final value of t                     = +7.19921117e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+
+Number of Iterations                 =       2271
+Computational Time                   =          631.73
+Number of Iterations (t < 1)         =       2050
+Computational Time (t < 1)           =          619.85
+
+Final value of t                     = +4.00717433e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    1
+___________________________________________________________________________
+
+Number of Iterations                 =        603
+Computational Time                   =          102.25
+
+Final value of t                     = +8.55505898e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  3  3
+  3  3
+  3  3
+  3  3
+  3  3
+
+Number of Iterations                 =       1763
+Computational Time                   =          186.27
+Number of Iterations (t < 1)         =       1429
+Computational Time (t < 1)           =          148.20
+
+Final value of t                     = +6.03392250e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    2
+___________________________________________________________________________
+
+Number of Iterations                 =        361
+Computational Time                   =           31.58
+
+Final value of t                     = +1.48220482e-08
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  3  3
+  3  3
+  3  3
+  3  3
+  3  3
+
+Number of Iterations                 =       1228
+Computational Time                   =          119.64
+Number of Iterations (t < 1)         =        885
+Computational Time (t < 1)           =           84.80
+
+Final value of t                     = +3.15891028e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    3
+___________________________________________________________________________
+
+Number of Iterations                 =       1574
+Computational Time                   =          133.49
+
+Final value of t                     = +8.12589813e-08
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  3  3
+  3  3
+  3  3
+  3  3
+  3  3
+
+Number of Iterations                 =       5045
+Computational Time                   =          512.00
+Number of Iterations (t < 1)         =       4680
+Computational Time (t < 1)           =          473.45
+
+Final value of t                     = +9.24563513e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    4
+___________________________________________________________________________
+
+Number of Iterations                 =        510
+Computational Time                   =           50.52
+
+Final value of t                     = +4.36178919e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  3  3
+  3  3
+  3  3
+  3  3
+  3  3
+
+Number of Iterations                 =       1610
+Computational Time                   =          180.30
+Number of Iterations (t < 1)         =       1290
+Computational Time (t < 1)           =          142.29
+
+Final value of t                     = +4.67355190e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    5
+___________________________________________________________________________
+
+Number of Iterations                 =        567
+Computational Time                   =           56.48
+
+Final value of t                     = +5.42758416e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  3  3
+  3  3
+  3  3
+  3  3
+  3  3
+
+Number of Iterations                 =       2057
+Computational Time                   =          228.61
+Number of Iterations (t < 1)         =       1754
+Computational Time (t < 1)           =          192.03
+
+Final value of t                     = +2.41442843e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    6
+___________________________________________________________________________
+
+Number of Iterations                 =        661
+Computational Time                   =           64.37
+
+Final value of t                     = +3.31073211e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  3  3
+  3  3
+  3  3
+  3  3
+  3  3
+
+Number of Iterations                 =       1756
+Computational Time                   =          197.75
+Number of Iterations (t < 1)         =       1352
+Computational Time (t < 1)           =          150.68
+
+Final value of t                     = +9.77497319e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    7
+___________________________________________________________________________
+
+Number of Iterations                 =        311
+Computational Time                   =           30.94
+
+Final value of t                     = +7.80100288e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  3  3
+  3  3
+  3  3
+  3  3
+  3  3
+
+Number of Iterations                 =        976
+Computational Time                   =          110.10
+Number of Iterations (t < 1)         =        667
+Computational Time (t < 1)           =           73.45
+
+Final value of t                     = +7.44890266e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    8
+___________________________________________________________________________
+
+Number of Iterations                 =        930
+Computational Time                   =           89.40
+
+Final value of t                     = +6.10365368e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  3  3
+  3  3
+  3  3
+  3  3
+  3  3
+
+Number of Iterations                 =       1960
+Computational Time                   =          217.32
+Number of Iterations (t < 1)         =       1556
+Computational Time (t < 1)           =          171.10
+
+Final value of t                     = +5.44594977e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    9
+___________________________________________________________________________
+
+Number of Iterations                 =        529
+Computational Time                   =           53.01
+
+Final value of t                     = +5.57661412e-08
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  3  3
+  3  3
+  3  3
+  3  3
+  3  3
+
+Number of Iterations                 =       2976
+Computational Time                   =          333.09
+Number of Iterations (t < 1)         =       2329
+Computational Time (t < 1)           =          259.44
+
+Final value of t                     = +9.07998804e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =   10
+___________________________________________________________________________
+
+Number of Iterations                 =        254
+Computational Time                   =           23.85
+
+Final value of t                     = +2.45608059e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  3  3
+  3  3
+  3  3
+  3  3
+  3  3
+
+Number of Iterations                 =       1104
+Computational Time                   =          126.48
+Number of Iterations (t < 1)         =        798
+Computational Time (t < 1)           =           90.28
+
+Final value of t                     = +2.21799831e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    1
+___________________________________________________________________________
+
+Number of Iterations                 =        364
+Computational Time                   =           41.43
+
+Final value of t                     = +2.50397275e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  4  4
+  4  4
+  4  4
+  4  4
+  4  4
+
+Number of Iterations                 =       2087
+Computational Time                   =          282.46
+Number of Iterations (t < 1)         =       1823
+Computational Time (t < 1)           =          242.36
+
+Final value of t                     = +8.03459640e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    2
+___________________________________________________________________________
+
+Number of Iterations                 =        334
+Computational Time                   =           40.22
+
+Final value of t                     = +1.78054147e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  4  4
+  4  4
+  4  4
+  4  4
+  4  4
+
+Number of Iterations                 =       1614
+Computational Time                   =          244.93
+Number of Iterations (t < 1)         =       1358
+Computational Time (t < 1)           =          200.42
+
+Final value of t                     = +9.48061170e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    3
+___________________________________________________________________________
+
+Number of Iterations                 =       2804
+Computational Time                   =          382.57
+
+Final value of t                     = +5.88894638e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  4  4
+  4  4
+  4  4
+  4  4
+  4  4
+
+Number of Iterations                 =       2351
+Computational Time                   =          366.09
+Number of Iterations (t < 1)         =       1982
+Computational Time (t < 1)           =          303.42
+
+Final value of t                     = +2.28356034e-06
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    4
+___________________________________________________________________________
+
+Number of Iterations                 =        410
+Computational Time                   =           42.90
+
+Final value of t                     = +5.60656551e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  4  4
+  4  4
+  4  4
+  4  4
+  4  4
+
+Number of Iterations                 =        991
+Computational Time                   =          129.31
+Number of Iterations (t < 1)         =        670
+Computational Time (t < 1)           =           85.34
+
+Final value of t                     = +2.18561129e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    5
+___________________________________________________________________________
+
+Number of Iterations                 =        690
+Computational Time                   =           95.46
+
+Final value of t                     = +5.59254199e-08
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  4  4
+  4  4
+  4  4
+  4  4
+  4  4
+
+Number of Iterations                 =       1186
+Computational Time                   =          184.97
+Number of Iterations (t < 1)         =        930
+Computational Time (t < 1)           =          142.43
+
+Final value of t                     = +8.94404453e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    6
+___________________________________________________________________________
+
+Number of Iterations                 =        744
+Computational Time                   =          103.89
+
+Final value of t                     = +4.49475600e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  4  4
+  4  4
+  4  4
+  4  4
+  4  4
+
+Number of Iterations                 =       5095
+Computational Time                   =          701.16
+Number of Iterations (t < 1)         =       4745
+Computational Time (t < 1)           =          644.88
+
+Final value of t                     = +7.47276424e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    7
+___________________________________________________________________________
+
+Number of Iterations                 =        414
+Computational Time                   =           50.40
+
+Final value of t                     = +3.64479355e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  4  4
+  4  4
+  4  4
+  4  4
+  4  4
+
+Number of Iterations                 =       3473
+Computational Time                   =          529.66
+Number of Iterations (t < 1)         =       3117
+Computational Time (t < 1)           =          478.26
+
+Final value of t                     = +5.82405992e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    8
+___________________________________________________________________________
+
+Number of Iterations                 =        285
+Computational Time                   =           32.48
+
+Final value of t                     = +6.98382419e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  4  4
+  4  4
+  4  4
+  4  4
+  4  4
+
+Number of Iterations                 =       3260
+Computational Time                   =          426.45
+Number of Iterations (t < 1)         =       2992
+Computational Time (t < 1)           =          384.19
+
+Final value of t                     = +5.18070922e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    9
+___________________________________________________________________________
+
+Number of Iterations                 =        308
+Computational Time                   =           35.05
+
+Final value of t                     = +8.29743007e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  4  4
+  4  4
+  4  4
+  4  4
+  4  4
+
+Number of Iterations                 =       2336
+Computational Time                   =          312.41
+Number of Iterations (t < 1)         =       2030
+Computational Time (t < 1)           =          269.43
+
+Final value of t                     = +6.71965829e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =   10
+___________________________________________________________________________
+
+Number of Iterations                 =        805
+Computational Time                   =           96.16
+
+Final value of t                     = +2.29845535e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  4  4
+  4  4
+  4  4
+  4  4
+  4  4
+
+Number of Iterations                 =       2306
+Computational Time                   =          337.08
+Number of Iterations (t < 1)         =       2029
+Computational Time (t < 1)           =          294.22
+
+Final value of t                     = +4.53973597e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    1
+___________________________________________________________________________
+
+Number of Iterations                 =       2067
+Computational Time                   =          351.61
+
+Final value of t                     = +4.57985484e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+  5  5
+  5  5
+  5  5
+
+Number of Iterations                 =       2378
+Computational Time                   =          404.68
+Number of Iterations (t < 1)         =       2032
+Computational Time (t < 1)           =          340.97
+
+Final value of t                     = +8.57758902e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    2
+___________________________________________________________________________
+
+Number of Iterations                 =       2416
+Computational Time                   =          332.97
+
+Final value of t                     = +3.55833878e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+  5  5
+  5  5
+  5  5
+
+Number of Iterations                 =       2659
+Computational Time                   =          387.37
+Number of Iterations (t < 1)         =       2329
+Computational Time (t < 1)           =          335.50
+
+Final value of t                     = +5.97435151e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    3
+___________________________________________________________________________
+
+Number of Iterations                 =       1364
+Computational Time                   =          191.10
+
+Final value of t                     = +2.48139030e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+  5  5
+  5  5
+  5  5
+
+Number of Iterations                 =       4133
+Computational Time                   =          635.33
+Number of Iterations (t < 1)         =       3753
+Computational Time (t < 1)           =          575.30
+
+Final value of t                     = +4.70030929e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    4
+___________________________________________________________________________
+
+Number of Iterations                 =        680
+Computational Time                   =          103.50
+
+Final value of t                     = +6.03427619e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+  5  5
+  5  5
+  5  5
+
+Number of Iterations                 =       2729
+Computational Time                   =          448.20
+Number of Iterations (t < 1)         =       2319
+Computational Time (t < 1)           =          377.17
+
+Final value of t                     = +4.26281534e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    5
+___________________________________________________________________________
+
+Number of Iterations                 =        802
+Computational Time                   =          120.99
+
+Final value of t                     = +8.61306072e-08
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+  5  5
+  5  5
+  5  5
+
+Number of Iterations                 =      10000
+Computational Time                   =         1594.42
+Number of Iterations (t < 1)         =       9662
+Computational Time (t < 1)           =         1534.92
+
+Final value of t                     = +1.01325990e-01
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    6
+___________________________________________________________________________
+
+Number of Iterations                 =        440
+Computational Time                   =           55.56
+
+Final value of t                     = +4.35746494e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+  5  5
+  5  5
+  5  5
+
+Number of Iterations                 =       2864
+Computational Time                   =          422.96
+Number of Iterations (t < 1)         =       2486
+Computational Time (t < 1)           =          365.10
+
+Final value of t                     = +6.36107443e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    7
+___________________________________________________________________________
+
+Number of Iterations                 =        659
+Computational Time                   =           93.58
+
+Final value of t                     = +5.24365761e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+  5  5
+  5  5
+  5  5
+
+Number of Iterations                 =       4070
+Computational Time                   =          599.28
+Number of Iterations (t < 1)         =       3760
+Computational Time (t < 1)           =          549.51
+
+Final value of t                     = +9.81908298e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    8
+___________________________________________________________________________
+
+Number of Iterations                 =        853
+Computational Time                   =          120.07
+
+Final value of t                     = +8.32302666e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+  5  5
+  5  5
+  5  5
+
+Number of Iterations                 =       6446
+Computational Time                   =         1064.78
+Number of Iterations (t < 1)         =       6095
+Computational Time (t < 1)           =         1007.11
+
+Final value of t                     = +2.10285250e-09
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    9
+___________________________________________________________________________
+
+Number of Iterations                 =       1008
+Computational Time                   =          152.09
+
+Final value of t                     = +3.67516651e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+  5  5
+  5  5
+  5  5
+
+Number of Iterations                 =      10000
+Computational Time                   =         1618.67
+Number of Iterations (t < 1)         =       9724
+Computational Time (t < 1)           =         1571.08
+
+Final value of t                     = +1.27130927e-01
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =   10
+___________________________________________________________________________
+
+Number of Iterations                 =       1225
+Computational Time                   =          459.76
+
+Final value of t                     = +9.05178132e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+if system_dependent('IsDebugMode')==1, dbquit; end
+runA1
+Probability density of zeros in payoff matrix =   0.25
+
+k =   10
+___________________________________________________________________________
+
+Number of Iterations                 =       5145
+Computational Time                   =          879.47
+
+Final value of t                     = +5.13064532e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+if system_dependent('IsDebugMode')==1, dbquit; end
+runA1
+Probability density of zeros in payoff matrix =   0.25
+
+k =   10
+___________________________________________________________________________
+
+Number of Iterations                 =        475
+Computational Time                   =           87.48
+
+Final value of t                     = +3.94190346e-08
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+  5  5
+  5  5
+  5  5
+
+Number of Iterations                 =       2856
+Computational Time                   =          523.45
+Number of Iterations (t < 1)         =       2585
+Computational Time (t < 1)           =          469.42
+
+Final value of t                     = +5.03775203e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    1
+___________________________________________________________________________
+
+Number of Iterations                 =        261
+Computational Time                   =           27.27
+
+Final value of t                     = +8.39943570e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   3
+Number of States                     =   3
+Number of Pure Strateies of
+of Player i in State h               =
+  3  3  3
+  3  3  3
+  3  3  3
+
+Number of Iterations                 =       2767
+Computational Time                   =          264.71
+Number of Iterations (t < 1)         =       2597
+Computational Time (t < 1)           =          245.68
+
+Final value of t                     = +3.80356245e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    2
+___________________________________________________________________________
+
+Number of Iterations                 =        279
+Computational Time                   =           22.11
+
+Final value of t                     = +3.39205155e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   3
+Number of States                     =   3
+Number of Pure Strateies of
+of Player i in State h               =
+  3  3  3
+  3  3  3
+  3  3  3
+
+Number of Iterations                 =        447
+Computational Time                   =           42.67
+Number of Iterations (t < 1)         =        270
+Computational Time (t < 1)           =           23.94
+
+Final value of t                     = +7.35535124e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    3
+___________________________________________________________________________
+
+Number of Iterations                 =        271
+Computational Time                   =           28.43
+
+Final value of t                     = +3.92374094e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   3
+Number of States                     =   3
+Number of Pure Strateies of
+of Player i in State h               =
+  3  3  3
+  3  3  3
+  3  3  3
+
+Number of Iterations                 =       1358
+Computational Time                   =          177.67
+Number of Iterations (t < 1)         =       1156
+Computational Time (t < 1)           =          145.86
+
+Final value of t                     = +7.06131214e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    4
+___________________________________________________________________________
+
+Number of Iterations                 =        251
+Computational Time                   =           28.06
+
+Final value of t                     = +8.22930942e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   3
+Number of States                     =   3
+Number of Pure Strateies of
+of Player i in State h               =
+  3  3  3
+  3  3  3
+  3  3  3
+
+Number of Iterations                 =       1092
+Computational Time                   =          138.50
+Number of Iterations (t < 1)         =        930
+Computational Time (t < 1)           =          114.52
+
+Final value of t                     = +6.27195591e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    5
+___________________________________________________________________________
+
+Number of Iterations                 =        130
+Computational Time                   =           18.89
+
+Final value of t                     = +2.32510657e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   3
+Number of States                     =   3
+Number of Pure Strateies of
+of Player i in State h               =
+  3  3  3
+  3  3  3
+  3  3  3
+
+Number of Iterations                 =       1344
+Computational Time                   =          130.14
+Number of Iterations (t < 1)         =       1149
+Computational Time (t < 1)           =           99.37
+
+Final value of t                     = +6.87680662e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    6
+___________________________________________________________________________
+
+Number of Iterations                 =        269
+Computational Time                   =           19.24
+
+Final value of t                     = +2.93696749e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   3
+Number of States                     =   3
+Number of Pure Strateies of
+of Player i in State h               =
+  3  3  3
+  3  3  3
+  3  3  3
+
+Number of Iterations                 =       1517
+Computational Time                   =          120.50
+Number of Iterations (t < 1)         =       1336
+Computational Time (t < 1)           =          104.65
+
+Final value of t                     = +6.28418081e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    7
+___________________________________________________________________________
+
+Number of Iterations                 =        269
+Computational Time                   =           19.38
+
+Final value of t                     = +3.11353397e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   3
+Number of States                     =   3
+Number of Pure Strateies of
+of Player i in State h               =
+  3  3  3
+  3  3  3
+  3  3  3
+
+Number of Iterations                 =        856
+Computational Time                   =           72.44
+Number of Iterations (t < 1)         =        668
+Computational Time (t < 1)           =           55.27
+
+Final value of t                     = +6.70681773e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    8
+___________________________________________________________________________
+
+Number of Iterations                 =        152
+Computational Time                   =           10.55
+
+Final value of t                     = +8.46781647e-08
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   3
+Number of States                     =   3
+Number of Pure Strateies of
+of Player i in State h               =
+  3  3  3
+  3  3  3
+  3  3  3
+
+Number of Iterations                 =       2244
+Computational Time                   =          181.81
+Number of Iterations (t < 1)         =       2053
+Computational Time (t < 1)           =          164.77
+
+Final value of t                     = +4.25993746e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    9
+___________________________________________________________________________
+
+Number of Iterations                 =        158
+Computational Time                   =           12.11
+
+Final value of t                     = +4.56048921e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   3
+Number of States                     =   3
+Number of Pure Strateies of
+of Player i in State h               =
+  3  3  3
+  3  3  3
+  3  3  3
+
+Number of Iterations                 =        670
+Computational Time                   =           62.97
+Number of Iterations (t < 1)         =        471
+Computational Time (t < 1)           =           41.12
+
+Final value of t                     = +8.86349498e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =   10
+___________________________________________________________________________
+
+Number of Iterations                 =        209
+Computational Time                   =           16.82
+
+Final value of t                     = +4.21518709e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   3
+Number of States                     =   3
+Number of Pure Strateies of
+of Player i in State h               =
+  3  3  3
+  3  3  3
+  3  3  3
+
+Number of Iterations                 =       2813
+Computational Time                   =          262.39
+Number of Iterations (t < 1)         =       2661
+Computational Time (t < 1)           =          246.09
+
+Final value of t                     = +7.26308098e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    1
+___________________________________________________________________________
+
+Number of Iterations                 =        762
+Computational Time                   =          154.23
+
+Final value of t                     = +4.87293587e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   3
+Number of States                     =   3
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5
+  5  5  5
+  5  5  5
+
+Number of Iterations                 =      10000
+Computational Time                   =         1308.24
+Number of Iterations (t < 1)         =       9809
+Computational Time (t < 1)           =         1280.81
+
+Final value of t                     = +3.11259853e-01
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    2
+___________________________________________________________________________
+
+Number of Iterations                 =        457
+Computational Time                   =           62.08
+
+Final value of t                     = +5.48986027e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   3
+Number of States                     =   3
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5
+  5  5  5
+  5  5  5
+
+Number of Iterations                 =       3890
+Computational Time                   =          518.19
+Number of Iterations (t < 1)         =       3690
+Computational Time (t < 1)           =          487.72
+
+Final value of t                     = +7.04816905e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    3
+___________________________________________________________________________
+
+Number of Iterations                 =       1492
+Computational Time                   =          200.48
+
+Final value of t                     = +2.84257808e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   3
+Number of States                     =   3
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5
+  5  5  5
+  5  5  5
+
+Number of Iterations                 =       2029
+Computational Time                   =          274.05
+Number of Iterations (t < 1)         =       1861
+Computational Time (t < 1)           =          247.59
+
+Final value of t                     = +2.26188729e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    4
+___________________________________________________________________________
+
+Number of Iterations                 =        475
+Computational Time                   =           68.37
+
+Final value of t                     = +7.98553645e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   3
+Number of States                     =   3
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5
+  5  5  5
+  5  5  5
+
+Number of Iterations                 =       3587
+Computational Time                   =          479.64
+Number of Iterations (t < 1)         =       3386
+Computational Time (t < 1)           =          448.40
+
+Final value of t                     = +8.66728348e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    5
+___________________________________________________________________________
+
+Number of Iterations                 =        431
+Computational Time                   =           56.39
+
+Final value of t                     = +2.23388046e-04
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   3
+Number of States                     =   3
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5
+  5  5  5
+  5  5  5
+
+Number of Iterations                 =       7032
+Computational Time                   =          933.49
+Number of Iterations (t < 1)         =       6856
+Computational Time (t < 1)           =          906.63
+
+Final value of t                     = +4.16714758e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    6
+___________________________________________________________________________
+
+Number of Iterations                 =       1111
+Computational Time                   =          146.18
+
+Final value of t                     = +4.55818860e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   3
+Number of States                     =   3
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5
+  5  5  5
+  5  5  5
+
+Number of Iterations                 =      10000
+Computational Time                   =         1301.67
+Number of Iterations (t < 1)         =       9784
+Computational Time (t < 1)           =         1268.71
+
+Final value of t                     = +2.42447779e-01
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    7
+___________________________________________________________________________
+
+Number of Iterations                 =        280
+Computational Time                   =           34.98
+
+Final value of t                     = +3.67558182e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   3
+Number of States                     =   3
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5
+  5  5  5
+  5  5  5
+
+Number of Iterations                 =       7768
+Computational Time                   =          956.63
+Number of Iterations (t < 1)         =       7603
+Computational Time (t < 1)           =          931.80
+
+Final value of t                     = +4.31420711e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    8
+___________________________________________________________________________
+
+Number of Iterations                 =        224
+Computational Time                   =           29.75
+
+Final value of t                     = +4.86329786e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   3
+Number of States                     =   3
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5
+  5  5  5
+  5  5  5
+
+Number of Iterations                 =       5012
+Computational Time                   =          626.01
+Number of Iterations (t < 1)         =       4821
+Computational Time (t < 1)           =          597.57
+
+Final value of t                     = +4.46503291e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    9
+___________________________________________________________________________
+
+Number of Iterations                 =        487
+Computational Time                   =           60.99
+
+Final value of t                     = +1.54138959e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   3
+Number of States                     =   3
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5
+  5  5  5
+  5  5  5
+
+Number of Iterations                 =       3920
+Computational Time                   =          489.06
+Number of Iterations (t < 1)         =       3723
+Computational Time (t < 1)           =          460.62
+
+Final value of t                     = +4.48278808e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =   10
+___________________________________________________________________________
+
+Number of Iterations                 =        245
+Computational Time                   =           31.93
+
+Final value of t                     = +2.32833263e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   3
+Number of States                     =   3
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5
+  5  5  5
+  5  5  5
+
+Number of Iterations                 =       1416
+Computational Time                   =          179.06
+Number of Iterations (t < 1)         =       1236
+Computational Time (t < 1)           =          152.51
+
+Final value of t                     = +5.39338536e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    1
+___________________________________________________________________________
+
+Number of Iterations                 =        174
+Computational Time                   =           23.07
+
+Final value of t                     = +6.13735591e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   4
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5  5
+  5  5  5  5
+
+Number of Iterations                 =       1171
+Computational Time                   =          130.31
+Number of Iterations (t < 1)         =       1029
+Computational Time (t < 1)           =          106.15
+
+Final value of t                     = +6.09131310e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    2
+___________________________________________________________________________
+
+Number of Iterations                 =        322
+Computational Time                   =           40.50
+
+Final value of t                     = +9.55953151e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   4
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5  5
+  5  5  5  5
+
+Number of Iterations                 =       2664
+Computational Time                   =          290.97
+Number of Iterations (t < 1)         =       2528
+Computational Time (t < 1)           =          272.69
+
+Final value of t                     = +2.43351764e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    3
+___________________________________________________________________________
+
+Number of Iterations                 =        450
+Computational Time                   =           55.31
+
+Final value of t                     = +6.41808419e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   4
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5  5
+  5  5  5  5
+
+Number of Iterations                 =      10000
+Computational Time                   =         1100.13
+Number of Iterations (t < 1)         =       9869
+Computational Time (t < 1)           =         1082.34
+
+Final value of t                     = +7.13150407e-01
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    4
+___________________________________________________________________________
+
+Number of Iterations                 =        310
+Computational Time                   =           40.07
+
+Final value of t                     = +2.88864501e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   4
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5  5
+  5  5  5  5
+
+Number of Iterations                 =        735
+Computational Time                   =           88.97
+Number of Iterations (t < 1)         =        605
+Computational Time (t < 1)           =           70.04
+
+Final value of t                     = +6.24366702e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    5
+___________________________________________________________________________
+
+Number of Iterations                 =        337
+Computational Time                   =           40.75
+
+Final value of t                     = +2.77185046e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   4
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5  5
+  5  5  5  5
+
+Number of Iterations                 =       1569
+Computational Time                   =          188.32
+Number of Iterations (t < 1)         =       1432
+Computational Time (t < 1)           =          168.41
+
+Final value of t                     = +5.79758395e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    6
+___________________________________________________________________________
+
+Number of Iterations                 =        180
+Computational Time                   =           22.88
+
+Final value of t                     = +3.13991829e-08
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   4
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5  5
+  5  5  5  5
+
+Number of Iterations                 =       3275
+Computational Time                   =          383.39
+Number of Iterations (t < 1)         =       3120
+Computational Time (t < 1)           =          356.76
+
+Final value of t                     = +5.48285686e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    7
+___________________________________________________________________________
+
+Number of Iterations                 =        154
+Computational Time                   =           20.38
+
+Final value of t                     = +7.35981550e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   4
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5  5
+  5  5  5  5
+
+Number of Iterations                 =       8450
+Computational Time                   =          938.60
+Number of Iterations (t < 1)         =       8312
+Computational Time (t < 1)           =          919.42
+
+Final value of t                     = +1.31740703e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    8
+___________________________________________________________________________
+
+Number of Iterations                 =        296
+Computational Time                   =           36.95
+
+Final value of t                     = +8.53913246e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   4
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5  5
+  5  5  5  5
+
+Number of Iterations                 =       3645
+Computational Time                   =          391.48
+Number of Iterations (t < 1)         =       3502
+Computational Time (t < 1)           =          373.29
+
+Final value of t                     = +4.28636392e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    9
+___________________________________________________________________________
+
+Number of Iterations                 =        199
+Computational Time                   =           24.19
+
+Final value of t                     = +9.08795638e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   4
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5  5
+  5  5  5  5
+
+Number of Iterations                 =       3845
+Computational Time                   =          454.64
+Number of Iterations (t < 1)         =       3714
+Computational Time (t < 1)           =          437.41
+
+Final value of t                     = +1.24979155e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =   10
+___________________________________________________________________________
+
+Number of Iterations                 =        334
+Computational Time                   =           42.74
+
+Final value of t                     = +8.46535387e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   4
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5  5
+  5  5  5  5
+
+Number of Iterations                 =       2349
+Computational Time                   =          278.80
+Number of Iterations (t < 1)         =       2212
+Computational Time (t < 1)           =          248.74
+
+Final value of t                     = +2.12863898e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    1
+___________________________________________________________________________
+
+Number of Iterations                 =        211
+Computational Time                   =           61.12
+
+Final value of t                     = +6.59837693e-08
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   5
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5  5  5
+  5  5  5  5  5
+
+Number of Iterations                 =       3522
+Computational Time                   =          829.85
+Number of Iterations (t < 1)         =       3379
+Computational Time (t < 1)           =          787.91
+
+Final value of t                     = +5.84091695e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    2
+___________________________________________________________________________
+
+Number of Iterations                 =       1432
+Computational Time                   =          417.37
+
+Final value of t                     = +4.66567236e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+if system_dependent('IsDebugMode')==1, dbquit; end
+runA1
+Probability density of zeros in payoff matrix =   0.25
+
+k =    2
+___________________________________________________________________________
+
+Number of Iterations                 =        340
+Computational Time                   =           92.97
+
+Final value of t                     = +3.41021883e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   5
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5  5  5
+  5  5  5  5  5
+
+Number of Iterations                 =       3142
+Computational Time                   =          720.98
+Number of Iterations (t < 1)         =       2999
+Computational Time (t < 1)           =          667.30
+
+Final value of t                     = +1.18288305e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    3
+___________________________________________________________________________
+
+Number of Iterations                 =        287
+Computational Time                   =           74.86
+
+Final value of t                     = +4.91982432e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   5
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5  5  5
+  5  5  5  5  5
+
+Number of Iterations                 =      10000
+Computational Time                   =         2234.84
+Number of Iterations (t < 1)         =       9858
+Computational Time (t < 1)           =         2195.44
+
+Final value of t                     = +3.17800706e-01
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    4
+___________________________________________________________________________
+
+Number of Iterations                 =        158
+Computational Time                   =           40.27
+
+Final value of t                     = +3.45664301e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   5
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5  5  5
+  5  5  5  5  5
+
+Number of Iterations                 =      10000
+Computational Time                   =         2252.09
+Number of Iterations (t < 1)         =       9855
+Computational Time (t < 1)           =         2202.40
+
+Final value of t                     = +9.53055526e-01
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    5
+___________________________________________________________________________
+
+Number of Iterations                 =        186
+Computational Time                   =           48.48
+
+Final value of t                     = +5.95241656e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   5
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5  5  5
+  5  5  5  5  5
+
+Number of Iterations                 =       8785
+Computational Time                   =         1985.33
+Number of Iterations (t < 1)         =       8650
+Computational Time (t < 1)           =         1946.95
+
+Final value of t                     = +2.68496442e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    6
+___________________________________________________________________________
+
+Number of Iterations                 =        151
+Computational Time                   =           36.86
+
+Final value of t                     = +7.74766177e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   5
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5  5  5
+  5  5  5  5  5
+
+Number of Iterations                 =      10000
+Computational Time                   =         2273.33
+Number of Iterations (t < 1)         =       9862
+Computational Time (t < 1)           =         2234.44
+
+Final value of t                     = +4.10591040e-01
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    7
+___________________________________________________________________________
+
+Number of Iterations                 =        479
+Computational Time                   =          132.41
+
+Final value of t                     = +3.50097646e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   5
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5  5  5
+  5  5  5  5  5
+
+Number of Iterations                 =       4811
+Computational Time                   =         1102.83
+Number of Iterations (t < 1)         =       4676
+Computational Time (t < 1)           =         1064.14
+
+Final value of t                     = +5.15221135e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    8
+___________________________________________________________________________
+
+Number of Iterations                 =        277
+Computational Time                   =           73.06
+
+Final value of t                     = +3.15916743e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   5
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5  5  5
+  5  5  5  5  5
+
+Number of Iterations                 =       1565
+Computational Time                   =          361.43
+Number of Iterations (t < 1)         =       1420
+Computational Time (t < 1)           =          320.31
+
+Final value of t                     = +4.96298897e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    9
+___________________________________________________________________________
+
+Number of Iterations                 =        386
+Computational Time                   =           88.04
+
+Final value of t                     = +2.66804322e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   5
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5  5  5
+  5  5  5  5  5
+
+Number of Iterations                 =       7403
+Computational Time                   =         1697.30
+Number of Iterations (t < 1)         =       7270
+Computational Time (t < 1)           =         1653.11
+
+Final value of t                     = +4.08463488e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =   10
+___________________________________________________________________________
+
+Number of Iterations                 =        207
+Computational Time                   =           53.37
+
+Final value of t                     = +2.87133579e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   5
+Number of States                     =   2
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5  5  5  5
+  5  5  5  5  5
+
+Number of Iterations                 =       4740
+Computational Time                   =         1071.85
+Number of Iterations (t < 1)         =       4600
+Computational Time (t < 1)           =         1033.07
+
+Final value of t                     = +4.54019575e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+Probability density of zeros in payoff matrix =   0.25
+
+k =    1
+___________________________________________________________________________
+
+Number of Iterations                 =       2158
+Computational Time                   =          238.36
+
+Final value of t                     = +2.70234116e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+  5  5
+  5  5
+  5  5
+
+Number of Iterations                 =       4635
+Computational Time                   =          509.29
+Number of Iterations (t < 1)         =       4299
+Computational Time (t < 1)           =          468.59
+
+Final value of t                     = +1.46294848e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    2
+___________________________________________________________________________
+
+Number of Iterations                 =       1850
+Computational Time                   =          184.74
+
+Final value of t                     = +6.60882368e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+  5  5
+  5  5
+  5  5
+
+Number of Iterations                 =       2460
+Computational Time                   =          289.29
+Number of Iterations (t < 1)         =       2152
+Computational Time (t < 1)           =          252.14
+
+Final value of t                     = +2.78270503e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    3
+___________________________________________________________________________
+
+Number of Iterations                 =       1089
+Computational Time                   =          108.27
+
+Final value of t                     = +8.70466999e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+  5  5
+  5  5
+  5  5
+
+Number of Iterations                 =       1723
+Computational Time                   =          194.27
+Number of Iterations (t < 1)         =       1364
+Computational Time (t < 1)           =          152.28
+
+Final value of t                     = +2.33128841e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    4
+___________________________________________________________________________
+
+Number of Iterations                 =        599
+Computational Time                   =           60.63
+
+Final value of t                     = +8.53197637e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+  5  5
+  5  5
+  5  5
+
+Number of Iterations                 =       3888
+Computational Time                   =          440.92
+Number of Iterations (t < 1)         =       3548
+Computational Time (t < 1)           =          399.61
+
+Final value of t                     = +6.28686781e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    5
+___________________________________________________________________________
+
+Number of Iterations                 =       1780
+Computational Time                   =          199.81
+
+Final value of t                     = +6.51320446e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+  5  5
+  5  5
+  5  5
+
+Number of Iterations                 =       2930
+Computational Time                   =          319.05
+Number of Iterations (t < 1)         =       2627
+Computational Time (t < 1)           =          283.11
+
+Final value of t                     = +8.97593306e-08
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    6
+___________________________________________________________________________
+
+Number of Iterations                 =       1334
+Computational Time                   =          139.37
+
+Final value of t                     = +9.01758572e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+  5  5
+  5  5
+  5  5
+
+Number of Iterations                 =       3216
+Computational Time                   =          348.56
+Number of Iterations (t < 1)         =       2795
+Computational Time (t < 1)           =          300.97
+
+Final value of t                     = +4.76761371e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    7
+___________________________________________________________________________
+
+Number of Iterations                 =        481
+Computational Time                   =           50.33
+
+Final value of t                     = +1.93519949e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+  5  5
+  5  5
+  5  5
+
+Number of Iterations                 =       3681
+Computational Time                   =          408.09
+Number of Iterations (t < 1)         =       3261
+Computational Time (t < 1)           =          356.66
+
+Final value of t                     = +4.25737788e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    8
+___________________________________________________________________________
+
+Number of Iterations                 =        664
+Computational Time                   =           67.15
+
+Final value of t                     = +2.76577446e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+  5  5
+  5  5
+  5  5
+
+Number of Iterations                 =       5787
+Computational Time                   =          622.72
+Number of Iterations (t < 1)         =       5334
+Computational Time (t < 1)           =          571.81
+
+Final value of t                     = +7.24489480e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =    9
+___________________________________________________________________________
+
+Number of Iterations                 =        752
+Computational Time                   =           70.82
+
+Final value of t                     = +9.22508826e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+  5  5
+  5  5
+  5  5
+
+Number of Iterations                 =       2998
+Computational Time                   =          323.27
+Number of Iterations (t < 1)         =       2638
+Computational Time (t < 1)           =          281.68
+
+Final value of t                     = +7.73628253e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+k =   10
+___________________________________________________________________________
+
+Number of Iterations                 =       1920
+Computational Time                   =          198.60
+
+Final value of t                     = +4.40575167e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
+___________________________________________________________________________
+Stationary Equilibrium: Differentiable LTP & Square Smoothing
+
+Number of Players                    =   2
+Number of States                     =   5
+Number of Pure Strateies of
+of Player i in State h               =
+  5  5
+  5  5
+  5  5
+  5  5
+  5  5
+
+Number of Iterations                 =       1904
+Computational Time                   =          216.32
+Number of Iterations (t < 1)         =       1496
+Computational Time (t < 1)           =          167.31
+
+Final value of t                     = +2.10799979e-07
+Feasibility                          =   1
+
+___________________________________________________________________________
