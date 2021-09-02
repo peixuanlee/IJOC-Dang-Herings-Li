@@ -7,7 +7,9 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 
 The data in this repository is an archive of the data that were used in the research reported on in the paper [An Interior-Point Differentiable Path-Following Method to Compute Stationary Equilibria in Stochastic Games](link) by Chuangyin Dang, P.Jean-Jacques Herings and Peixuan Li.
 
-To cite this data, please cite the [research article](link) and the data itself.
+To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2019.0934) using its DOI and the software itself, using the following DOI.
+
+[![DOI](https://zenodo.org/badge/285853815.svg)](https://zenodo.org/badge/latestdoi/285853815)
 
 Below is the BibTex for citing this version of the data.
 
