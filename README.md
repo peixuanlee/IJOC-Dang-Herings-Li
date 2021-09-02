@@ -1,4 +1,3 @@
-
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
 This archive is distributed in association with the [INFORMS Journal on
@@ -42,3 +41,4 @@ We finally illustrate how to implement the code and associate the code files wit
 5. By running the file [inputs225.m](CoASLTP/inputs225.m) in the folder **CoASLTP**, one can get a stationary equilibrium for a stochastic game with two players, two states and five actions for each player in each state. The computational costs of the **IPM** and **ASLTP** for solving this instance are obtained as well. By repeatedly running [inputs225.m](CoASLTP/inputs225.m) for ten times, one can obtain the average computational time for both methods, which is shown in the first row of Table 1. Through changing the parameters *n*; *d*; *m*; *pd0* in [inputs225.m](CoASLTP/inputs225.m), we can attain various instances. The average computational time of IPM for solving these stochastic games are shown in Table 1 and Table 3.
 6. By implementing the file  [se225.m](CoPathsolver/se225.m) in the folder **CoPathsolver**, one can get the comparison results between the proposed **IPM** and the **path solver** for computing a stationary equilibrium in a randomly generated stochastic game with two players, two states and five actions. Similarly, by changing the parameters *n*; *d*;*m*, we attain various stochastic games with difierent scales. The comparison results are included in Table 2. By running the file [r1.m](CoPathsolver/r1.m), one may obtain the success rates of the two methods for 100 randomly generated stochastic games, which are recorded in Figure 5.
 7. By implementing the file [bargaining.m](Bargaining/bargaining.m) in the folder **Bargaining**, one can get Figure 6, which shows a solution to the presented bargaining model.
+
