@@ -24,7 +24,7 @@ Method to Compute Stationary Equilibria in Stochastic Games},
 ```
 
 ## Content
-The IPM works in MatLab software. Almost all numerical experiments are randomly generated, and the experimental results can be found in the numerical section of the paper. This repository includes:
+The IPM works in MatLab software. This repository includes the source code and computational results for all randomly generated numerical instances presented in the paper.
 ### Code files 
 The code folders include **CoASLTP**, **CoPathsolver** and **Bargaining**.
 1. The code in the folder **CoASLTP** is for comparing the proposed interior-point difierentiable path-following method (**IPM**) and the **ASLTP**, where the file [ycsgse.m](CoASLTP/ycsgse.m) is the main program of the **IPM** and [dltpsgse.m](CoASLTP/dltpsgse.m) is the main program of the **ASLTP**. The code in this folder has been used in Section 4.1.
