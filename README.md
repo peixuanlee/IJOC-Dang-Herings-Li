@@ -20,7 +20,7 @@ Below is the BibTex for citing this version of the data.
 Method to Compute Stationary Equilibria in Stochastic Games},
   year =          {2021},
   doi =           {doi},
-  url =           {https://github.com/INFORMSJoC/link},
+  url =           {https://github.com/INFORMSJoC/2020.0259},
 }  
 ```
 
@@ -31,7 +31,6 @@ The code folders include **CoASLTP**, **CoPathsolver** and **Bargaining**.
 1. The code in the folder **CoASLTP** is for comparing the proposed interior-point difierentiable path-following method (**IPM**) and the **ASLTP**, where the file [ycsgse.m](CoASLTP/ycsgse.m) is the main program of the **IPM** and [dltpsgse.m](CoASLTP/dltpsgse.m) is the main program of the **ASLTP**. The code in this folder has been used in Section 4.1.
 2. The code in the folder **CoPathsolver** is for comparing the proposed **IPM** and the **path solver**, where the file [trysg.m](CoPathsolver/trysg.m) is the main program. The code in this folder has been used in Sections 4.2 and 4.3.
 3. The folder **Bargaining** includes the code for computing a solution to the bargaining model, which has been presented in Section 4.4.
-[](morecomplicated/)
 ### Results files
 The results folders **comp-ASLTP**, **comp-pathsolver** and **morecomplicated** record the computational results for all numerical examples used in the paper.
 1. The files [A0.txt](comp-ASLTP/A0.txt), [A1.txt](comp-ASLTP/A1.txt), [A2.txt](comp-ASLTP/A2.txt), [A3.txt](comp-ASLTP/A3.txt) in the folder **comp-ASLTP** consist of the computational time and number of iterations of **IPM** and **ASLTP** for solving various stochastic games. We summarize these comparison results in the file [comp-sltp.xlsx](comp-ASLTP/comp-sltp.xlsx). The average computational time has been reported in Table 1 of the manuscript. 
